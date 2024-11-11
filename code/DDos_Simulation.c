@@ -5,7 +5,7 @@
 #include <arpa/inet.h>
 #include <pthread.h>
 
-#define SERVER_IP "165.132.245.193"
+#define SERVER_IP "127.01.01.01"
 #define SERVER_PORT 8080
 #define NUM_THREADS 100
 
